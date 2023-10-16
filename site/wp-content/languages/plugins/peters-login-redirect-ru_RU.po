@@ -1,0 +1,86 @@
+# Translation of Plugins - LoginWP (Formerly Peter&#039;s Login Redirect) - Development (trunk) in Russian
+# This file is distributed under the same license as the Plugins - LoginWP (Formerly Peter&#039;s Login Redirect) - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-03-06 11:10:01+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: ru\n"
+"Project-Id-Version: Plugins - LoginWP (Formerly Peter&#039;s Login Redirect) - Development (trunk)\n"
+
+#: src/core/src/MoAdminNotice.php:78
+msgid "Activate MailOptin Now!"
+msgstr "Активируйте MailOptin сейчас!"
+
+#: src/core/src/MoAdminNotice.php:87
+msgid "Dismiss this notice"
+msgstr "Закрыть это уведомление"
+
+#: src/core/src/MoAdminNotice.php:73
+msgid "Install MailOptin Now for Free!"
+msgstr "Установите плагин MailOptin Now бесплатно!"
+
+#: src/core/src/MoAdminNotice.php:64
+msgid "Free optin form plugin that will %1$sincrease your email list subscribers%2$s and keep them engaged with %1$sautomated and schedule newsletters%2$s."
+msgstr "Бесплатный плагин формы подписки, который %1$sувеличит email список ваших подписчиков%2$s и удержит их внимание с помощью %1$sавтоматизиованных рассылок по расписанию%2$s."
+
+#: src/core/src/Functions.php:17
+msgid "Register"
+msgstr "Регистрация"
+
+#: src/core/src/Functions.php:22
+msgid "Site Admin"
+msgstr "Администратор"
+
+#: src/core/src/Admin/RedirectWPList.php:154
+msgid "Edit"
+msgstr "Редактировать"
+
+#: src/core/src/Admin/RedirectWPList.php:155
+#: src/core/src/Admin/RedirectWPList.php:254
+#: src/core/src/Admin/views/include.view.php:44
+msgid "Delete"
+msgstr "Удалить"
+
+#: src/core/src/Admin/views/view.condition-rule.php:35
+msgid "Order"
+msgstr "Порядок"
+
+#: src/core/src/Admin/views/view.bottom-settings.php:86
+msgid "Allow a POST or GET &#34;redirect_to&#34; variable to take redirect precedence"
+msgstr "Запросы POST или GET в переменной &#34;redirect_to&#34; для задания приоритета входа"
+
+#: src/core/src/Admin/views/view.bottom-settings.php:92
+#: src/core/src/Admin/views/view.bottom-settings.php:107
+msgid "Yes"
+msgstr "Да"
+
+#: src/core/src/Admin/views/view.bottom-settings.php:93
+#: src/core/src/Admin/views/view.bottom-settings.php:108
+msgid "No"
+msgstr "Нет"
+
+#: src/core/src/Admin/views/view.bottom-settings.php:101
+msgid "Allow a POST or GET &#34;redirect_to&#34; logout variable to take redirect precedence"
+msgstr "Запросы POST или GET в переменной &#34;redirect_to&#34; для задания приоритета выхода"
+
+#: src/core/src/Admin/views/view.bottom-settings.php:38
+msgid "Logout URL:"
+msgstr "URL выхода:"
+
+#: src/core/src/Admin/views/view.bottom-settings.php:64
+msgid "URL:"
+msgstr "URL:"
+
+#: src/core/src/Admin/RedirectWPList.php:224
+#: src/core/src/Admin/views/view.redirect-urls.php:26
+msgid "Logout URL"
+msgstr "URL выхода"
+
+#: src/core/src/Admin/RedirectWPList.php:223
+#: src/core/src/Admin/views/view.redirect-urls.php:18
+msgid "Login URL"
+msgstr "URL входа"
